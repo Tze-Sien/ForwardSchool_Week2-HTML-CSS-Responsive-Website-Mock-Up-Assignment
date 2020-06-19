@@ -384,5 +384,17 @@ input{
     .border-left{
         border-left: 5px  solid var(--primary);
     }
+
+    .order-1{
+        order: 2;
+    }
+
+    .order-2{
+        order: 1;
+    }
+
+    .mobile-mt{
+        margin: 0;
+    }
 }
 
